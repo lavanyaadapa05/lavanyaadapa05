@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavanya</h1>
-<h3 align="center">I’m a third-year Computer Science student passionate about technology and problem-solving.</h3>
 
-- 🔭 I’m currently working on [connectlocal](https://github.com/lavanyaadapa05/Connect_Local)
-
-- 🌱 I’m currently learning **angular,Machine Laerning,NLP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
